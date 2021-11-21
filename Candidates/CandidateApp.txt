@@ -1,0 +1,14 @@
+Candidate APP:
+  1. Candidate APP is a basic app which list the candidate profile.
+  2. On clicking the candidate id will redirect to the dedicated candidate profile page.
+  3. In the profile page, user can either shortlist or reject the candidate.
+  4. Here shortlisted and rejected link will redirect to the page containing the corresponding candidates list.
+  5. I have used React Context to manage the state effeciently.
+
+  
+Technologies used:
+
+Front-end:  React JS, context API for state Management
+Deployment: Netlify
+
+Deployed URL:  https://candidate-app.netlify.app/

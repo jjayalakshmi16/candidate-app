@@ -1,0 +1,55 @@
+.candidate-card {
+  border: 1px solid lightgray;
+  width: 26%;
+  border-radius: 5px;
+  height: 150px;
+  margin: 25px auto;
+  display: flex;
+  padding: 10px;
+}
+
+.candidate-profile {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+}
+
+.candidate-details {
+  text-align: left;
+  padding: 10px;
+  margin-left: 50px;
+}
+
+.page-link {
+  display: flex;
+  justify-content: space-between;
+  width: 20%;
+}
+
+.nodata {
+  margin: 110px;
+}
+
+.search-bar {
+  width: 300px;
+  padding: 18px;
+  border: 1px solid lightgray;
+  height: 50px;
+  border-radius: 4px;
+  background-color: aliceblue;
+  font-size: 16px;
+  margin: 10px;
+}
+
+.nav-bar {
+  display: flex;
+  justify-content: space-around;
+  background-color: #3681ac57;
+  position: fixed;
+  width: 100%;
+  top: 0;
+}
+
+.candidate-main {
+  margin-top: 100px;
+}
